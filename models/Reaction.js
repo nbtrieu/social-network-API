@@ -1,8 +1,6 @@
-const { ObjectId } = require('bson');
 const { Schema, Types } = require('mongoose');
-const dateFormat = require('./utils/dateFormat');
+const dateFormat = require('../utils/dateFormat');
 
-// Schema to create User model:
 const reactionSchema = new Schema(
   {
     reactionId: {
