@@ -1,7 +1,7 @@
 {
   "name": "social-network-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "This API is built with MongoDB for a social network web application to handle large amounts of unstructured data, allowing users to share their thoughts, react to friends’ thoughts, and create a friend list.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

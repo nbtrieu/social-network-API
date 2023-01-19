@@ -46,7 +46,7 @@ To use this application, simply initialize the npm and install the necessary pac
 
 ![DELETE Reaction by ID](./assets/screenshots/DELETE-reaction.png)
 
-[To preview more features, watch the walkthrough video here.](https://drive.google.com/file/d/1nrQ3geWw5qHMHthgyd0plnafEOp6xEpp/view)
+[To preview more features, watch the walkthrough video here.](https://drive.google.com/file/d/1ohJHsEDITeN8bhuoSvsao4mvo0HVQLV3/view)
 
 
 ## Contributing
